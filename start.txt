@@ -1,4 +1,0 @@
-Test Git Quick Start demo
-git remote add origin link
-another change  
-added  
